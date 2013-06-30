@@ -1,0 +1,8 @@
+home=1366470476000
+cluster=1372592216000
+ide=1366470476000
+platform=1366470476000
+user=1372592216000
+crc=7
+locale=en_US
+branding=simpleantlr

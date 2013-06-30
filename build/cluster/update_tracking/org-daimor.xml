@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><module codename="org.daimor">
+    <module_version install_time="1372592216544" last="true" origin="installer" specification_version="1.0">
+        <file crc="4208143051" name="config/Modules/org-daimor.xml"/>
+        <file crc="3805151251" name="modules/ext/antlr-4.0-complete.jar"/>
+        <file crc="1904336360" name="modules/org-daimor.jar"/>
+    </module_version>
+</module>
